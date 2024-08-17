@@ -27,6 +27,7 @@ In this section, we model the spot price of oil using a stochastic process and d
 - Bond pricing and derivation of the zero-coupon bond price formula.
 - Futures pricing under the given spot price model.
 - Analysis of the importance of stochastic convenience yield and stochastic interest rates.
+- Storage options
 
 ### Part 3: Calibration and Implementation
 
